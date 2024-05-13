@@ -10,7 +10,7 @@
 import java.util.Arrays;
 import java.util.Random;
 
-public class QuickSortExample {
+public class QuickSort {
 
     static final int MIN = 0;
     static final int MAX = 100;
